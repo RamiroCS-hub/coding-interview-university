@@ -603,7 +603,7 @@ Escriba código en un pizarrón o en papel, pero no en la computadora. Pruebe co
     - [ ] No implementaré. Implementando con arreglos es trivial.
 
 - ### Cola o fila
-    - [ ] [Queue (video)](https://www.coursera.org/learn/data-structures/lecture/EShpq/queue)
+    - [X] [Queue (video)](https://www.coursera.org/learn/data-structures/lecture/EShpq/queue)
     - [ ] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
     - [ ] [[Review] Queues in 3 minutes (video)](https://youtu.be/D6gu-_tmEpQ)
     - [ ] Implementar usando listas enlazadas, con el puntero de la cola:
